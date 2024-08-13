@@ -1,6 +1,6 @@
 # CPU-Scheduling-Simulation
 
-This Java-based CPU scheduling simulation implements a Multilevel Feedback Queue using three distinct queues, incorporating both the Round Robin (RR) and First Come First Serve (FCFS) algorithms.
+This C-based CPU scheduling simulation implements a Multilevel Feedback Queue using three distinct queues, incorporating both the Round Robin (RR) and First Come First Serve (FCFS) algorithms.
 
 ## Implementation:
 
